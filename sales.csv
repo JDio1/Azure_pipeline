@@ -1,0 +1,6 @@
+InvoiceNo,StockCode,Description,Quantity,InvoiceDate,UnitPrice,CustomerID,Country
+10001,A001,Widget A,10,2023-01-01,2.5,12345.0,UK
+10002,A002,Widget B,5,2023-01-02,3.0,12346.0,Germany
+10003,B001,Gadget A,8,2023-01-03,4.0,12347.0,France
+10004,C001,Tool A,15,2023-01-04,5.5,12348.0,Spain
+10005,C002,Tool B,2,2023-01-05,6.0,,Italy

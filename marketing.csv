@@ -1,0 +1,5 @@
+CampaignID,StartDate,EndDate,Budget,Channel
+1,2023-01-01,2023-01-16,1000,Email
+2,2023-01-16,2023-01-31,1500,Social Media
+3,2023-01-31,2023-02-15,2000,TV
+4,2023-02-15,2023-03-02,2500,Radio
